@@ -5,7 +5,7 @@
 2.Test Artifacts(TestPlan,Test Scenarios & bug report)
 3. UI Automation
 
-1.Car Insurance Test approach
+# 1.Car Insurance Test approach
 1.1 Scope The testing approach for this Car Insurance application to accomadate the functionality for applying car insurance
 
 1.2 Testing levels/Types & Roles and Responsibilities
@@ -34,12 +34,14 @@
   
   Defects: this tabs contains a bug report, document is ready to perform a defect triage 
   
-  Car Insurance Test artifacts (Test plan, Test Scenarios & bug report)
+  # 2.Car Insurance Test artifacts (Test plan, Test Scenarios & bug report)
     
     [Download ACC Matrix](https://github.com/NeerajaMaddala/MorganMckinleyTest/blob/main/McMorgan_ACC_Matrix.xlsx)
   
+  ![image](https://user-images.githubusercontent.com/89544674/131244702-7683da55-6f52-4dfa-840f-30459dfa640e.png)
+
   
-  3.Test Automation 
+  # 3.Test Automation 
   
   3.1 Test strategy For this use case I have made use of the testing quadrant and test pyramid, I have break the automation in two projects, one project focus in integration testing validating the API, and the other testing focus at UI or functional level, testing user interactions, since UI test tends to add more cost and maintenance effort, is always a good practice to cover critical functionalities at integration level and use UI automation as functional testing support.
 
