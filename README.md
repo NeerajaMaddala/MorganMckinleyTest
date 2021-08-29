@@ -36,7 +36,7 @@
   
   # 2.Car Insurance Test artifacts (Test plan, Test Scenarios & bug report) :
     
-  [DownloadACCMatrix](https://github.com/NeerajaMaddala/MorganMckinleyTest/blob/main/McMorgan_ACC_Matrix.xlsx)
+  [DownloadACCMatrix](https://github.com/NeerajaMaddala/MorganMckinleyTest/raw/main/McMorgan_ACC_Matrix.xlsx)
   
   ![image](https://user-images.githubusercontent.com/89544674/131244702-7683da55-6f52-4dfa-840f-30459dfa640e.png)
 
