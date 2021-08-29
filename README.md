@@ -25,10 +25,6 @@
         Capability: A capability is the Combination of an attribute and a component
         Ex: Test the Secure attribute of the login component, we can then say the 'Login component is Secure '
         
-        
-    # Car Insurance Test artifacts (Test plan, Test Scenarios & bug report)
-    
-    [Download ACC Matrix](https://github.com/NeerajaMaddala/MorganMckinleyTest/blob/main/McMorgan_ACC_Matrix.xlsx)
     
     Note: This document contains three tabs.
 
@@ -36,7 +32,11 @@
   
   Scenarios: Details of each capability/scenario that has been tested, I also have added few comments on the capabilities that have failed.
   
-  Defects: this tabs contains a bug report, document is ready to perform a defect triage a
+  Defects: this tabs contains a bug report, document is ready to perform a defect triage 
+  
+  Car Insurance Test artifacts (Test plan, Test Scenarios & bug report)
+    
+    [Download ACC Matrix](https://github.com/NeerajaMaddala/MorganMckinleyTest/blob/main/McMorgan_ACC_Matrix.xlsx)
   
   
   3.Test Automation 
