@@ -47,7 +47,7 @@
 
 3.2 Automation projects can be found:
 
-UI Test
+[UITest](https://github.com/NeerajaMaddala/UITestCarInsurance/tree/master)
 
 Note: Setup instructions can be found on each project
     
